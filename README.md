@@ -2,18 +2,18 @@
   <img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif", width="100", height=100/>
   </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/ridwan-ahmad-1b1310222/">
+  <a href="https://www.linkedin.com/in/abhinandan-jain-90a725209/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://leetcode.com/ridwanahamed47/">
+  <a href="https://leetcode.com/abhijain1911/">
   <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" alt="LeetCode Badge"/>
     </a>
-  <a href="https://www.instagram.com/__.rxdwan.__/">
+  <a href="https://www.instagram.com/abhi_jain1911/">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
 </div>
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ridwan6947&style=flat-square&color=blue" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=Abhijain1911&style=flat-square&color=blue" alt=""/>
   </div>
 
 ---
@@ -28,10 +28,10 @@
 ---
 
 ### 👨‍💻: About Me:
-- :telescope: I am currently a student at VIT Bhopal , Working to be a SDE engineer and a Web Developer.
-- :seedling: Current exploring software development and deployment and Full stack Development.
+- :telescope: I am currently a student at VIT Bhopal , Working to be a Data Scientist and Analyst
+- :seedling: Current exploring Data Analysis.
 - ⚽ I like to go to gym and play Football along with solving problems on LeetCode in my free time.
-- :mailbox: To reach me [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/ridwan-ahmad-1b1310222/") [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]("ridwanahamed47@gmail.com")
+- :mailbox: To reach me [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/abhinandan-jain-90a725209/") [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]("jainabhinandan.19@gmail.com")
 
 ---
 
@@ -39,15 +39,10 @@
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css3" alt="css3" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="flask" alt="flutter" width="40" height="40"/>&nbsp;
-
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+ 
   ---
   
   ### :fire: My Stats:
