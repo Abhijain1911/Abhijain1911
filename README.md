@@ -28,7 +28,7 @@
 ---
 
 ### 👨‍💻: About Me:
-- :telescope: I am currently a student at VIT Bhopal , Working to be a Data Scientist and Analyst
+- :telescope: I am currently a student at VIT Bhopal , Working to be a Data Scientist
 - :seedling: Current exploring Data Analysis.
 - ⚽ I like to go to gym and play Football along with solving problems on LeetCode in my free time.
 - :mailbox: To reach me [![Linkedin Badge](https://img.shields.io/badge/LinkdIn-blue?style=flat&logo=Linkedin&logoColor=white)]("https://www.linkedin.com/in/abhinandan-jain-90a725209/") [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)]("jainabhinandan.19@gmail.com")
@@ -40,8 +40,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySql" alt="MySql" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="Numpy" alt="Numpy" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/opencv/opencv-original.svg" title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" title="NumPy" alt="NumPy" width="40" height="40"/>&nbsp;
  
   ---
   
